@@ -1,2 +1,5 @@
-# Curso-Web-Frontend-Santander-Coders-2023
- 
+# Conceits mais avançados
+
+    - Variáveis CSS
+    - Seletores (~, +, is:)
+    - Pseudo elementos
